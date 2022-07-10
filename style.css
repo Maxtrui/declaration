@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #1D1839;
+    color: #ffffff; 
+    text-align: center;
+    ;
+}
+.quieres {
+    margin-top: 50px;
+    margin-left: 530px;
+    position: flex;
+    width: 200px;
+}
+.contenedor {
+    width: 1200px;
+}
+.proposicion{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.opciones p {
+    background: #6D1F47;
+    display: initial;
+    padding: 12px;
+    color: #ffffff;
+    border-radius: 2px;
+    border-style: outset;
+    font-weight: bold;
+    cursor: pointer;
+    left: 200px;
+
+}
+p.p1 {
+    position: absolute;
+    top: 400px;
+    left: 479px;
+    width: 100px;
+}
+p.p2{
+    position: absolute;
+    top: 400px;
+    left: 670px;
+    width: 100px;
+}
+#si {
+    background: #1D1839;
+    position: absolute;
+    top: 0px;
+    width: 720px;
+    color: #ffffff;
+    display: none;
+    padding: 70px;
+    padding-left: 285px;
+    padding-right: 115px;
+}
