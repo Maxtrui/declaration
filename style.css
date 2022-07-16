@@ -6,13 +6,13 @@ body{
     background: #1D1839;
     color: #ffffff; 
     text-align: center;
-    ;
-}
+}   
 .quieres {
     margin-top: 50px;
     margin-left: 530px;
     position: flex;
     width: 200px;
+    box-shadow: 0em 0em 2em 0 #6D1F47;
 }
 .contenedor {
     width: 1200px;
@@ -26,12 +26,13 @@ body{
     display: initial;
     padding: 12px;
     color: #ffffff;
-    border-radius: 2px;
-    border-style: outset;
+    border-radius: 15px;
+    border-style: inset;
+    border-color: #ceaabc;
+    box-shadow: 0em 0em 3em 0 #6D1F47;
     font-weight: bold;
     cursor: pointer;
     left: 200px;
-
 }
 p.p1 {
     position: absolute;
